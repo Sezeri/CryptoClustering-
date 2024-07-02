@@ -21,7 +21,7 @@ The worst of it all is there is a section in the starter code that is not even i
 
 # Display sample data
 "
-It was uselessly repeated.
+It was uselessly repeated. Plus, it says the code to do this is provided when no code was provided.
 
 The mess started toward the end of the challenge.
 I have yet to check this with the TA during office hours before submission.
